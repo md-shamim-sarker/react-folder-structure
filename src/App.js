@@ -1,9 +1,10 @@
 import './App.css';
+import Shamim from './components/Shamim/Shamim';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World!</h1>
+      <Shamim></Shamim>
     </div>
   );
 }
