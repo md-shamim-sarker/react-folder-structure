@@ -4,6 +4,13 @@
     box-shadow: 5px 5px 10px #c8c7c7;
     padding-bottom: 1rem;
     background-color: white;
+    position: relative;
+    top: 0;
+    transition: top ease 0.5s;
+}
+
+.CountryStyle:hover {
+    top: -15px;
 }
 
 .CountryStyle img {
