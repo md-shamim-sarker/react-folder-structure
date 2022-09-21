@@ -3,6 +3,7 @@
     overflow: hidden;
     box-shadow: 5px 5px 10px #c8c7c7;
     padding-bottom: 1rem;
+    background-color: white;
 }
 
 .CountryStyle img {
