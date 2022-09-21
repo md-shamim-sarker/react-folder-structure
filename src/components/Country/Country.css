@@ -1,0 +1,11 @@
+.CountryStyle {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 5px 5px 10px #c8c7c7;
+    padding-bottom: 1rem;
+}
+
+.CountryStyle img {
+    width: 100%;
+    margin-bottom: 1rem;
+}
